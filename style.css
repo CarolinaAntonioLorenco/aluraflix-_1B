@@ -1,0 +1,10 @@
+body{background-color: blue;
+color: white;
+}
+section{
+    background-color: darkmagenta;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex
+    justify content: center
+}
