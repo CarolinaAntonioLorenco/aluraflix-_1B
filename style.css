@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(71, 210, 194);
-    color: rgb(111, 142, 153);
+    background-color: rgba(34, 201, 181, 0.5);
+    color: rgb(197, 243, 159);
     font-family: Playwrite Hrvatska Lijeva;
 }
 section{
-    background-color: rgb(215, 65, 65);
+    background-color: rgb(188, 12, 204);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
@@ -32,7 +32,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: brown;
+    background-color: rgb(116, 8, 8);
 }
 .categoria-videos{
     display: flex;
